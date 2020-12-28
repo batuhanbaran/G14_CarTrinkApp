@@ -6,9 +6,9 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.ise308.ozkan.ezgi.g14_cartrink.Car
-import com.example.ise308.ozkan.ezgi.g14_cartrink.MainActivity
-import com.example.ise308.ozkan.ezgi.g14_cartrink.R
+
+import com.example.ise308.ozkan.ezgi.g14_cartrinkapp.MainActivity
+
 import com.example.ise308.ozkan.ezgi.g14_cartrinkapp.Car
 import com.example.ise308.ozkan.ezgi.g14_cartrinkapp.R
 
